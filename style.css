@@ -206,7 +206,7 @@ body.no-overflow {
 section.hero-site {
   height: 97vh;
   width: 100%;
-  background-image: url(/img/back-jeri.png);
+  background-image: url(assets/back-jeri.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -450,7 +450,7 @@ button:active {
 
 section.buggy {
   height: 600px;
-  background-image: url(/img/img-passeio.jpeg);
+  background-image: url(assets/img-passeio.jpeg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
