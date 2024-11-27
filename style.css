@@ -458,6 +458,7 @@ button:active {
 
 section.buggy {
   height: 800px;
+  width: 100%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -639,6 +640,7 @@ section.contato {
 
 .contato .icons-contato button i {
   font-size: 20px;
+  color: #000;
 }
 
 .contato .icons-contato button:hover {
