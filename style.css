@@ -457,8 +457,7 @@ button:active {
 /* Estilo da sessão passeios */
 
 section.buggy {
-  height: 600px;
-  background-image: url(assets/img-passeio.jpeg);
+  height: 800px;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -467,6 +466,15 @@ section.buggy {
   position: relative;
   text-align: center;
   box-shadow: 0 0 8px #00000062;
+
+  & img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 800px;
+    z-index: -10;
+  }
 }
 
 .buggy > .overlay {
@@ -490,8 +498,8 @@ section.buggy {
 }
 
 .buggy h3 {
-  font-size: 3em;
-  line-height: 50px;
+  font-size: 3.5em;
+  line-height: 60px;
   font-weight: 200;
 }
 
@@ -502,8 +510,8 @@ section.buggy {
 
 .buggy p {
   margin: 20px 0px;
-  font-size: 20px;
-  font-weight: 300;
+  font-size: 22px;
+  font-weight: 400;
 }
 
 .buggy button {

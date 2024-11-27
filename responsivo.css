@@ -26,6 +26,13 @@
       width: 103.5%;
     }
 
+    section.hero-site img {
+      top: 0px;
+      left: 0px;
+      height: 650px;
+      position: absolute;
+    }
+
     /* Responsivo Hero */
 
     .hero-site .txt-hero h1 {
@@ -35,6 +42,7 @@
     
     .hero-site .txt-hero p {
       font-size: 14px;
+      width: 350px;
     }
     
     .hero-site .txt-hero p span {
@@ -53,6 +61,11 @@
     }
 
     /* Responsivo das vantagens*/
+
+    .vantagens {
+      margin-top: -100px;
+      margin-bottom: -50px;
+    }
 
     .vantagens .itens-container {
       margin: 80px 40px;
@@ -146,6 +159,13 @@
     .buggy button:hover {
       background-color: rgba(9, 75, 110, 0.4);
       color: #fff;
+    }
+
+    .buggy img {
+      height: 800px;
+      width: 100%;
+      top: 0px;
+      left: 0px;
     }
 
     /* Estilo da sessão como funciona responsivo*/
