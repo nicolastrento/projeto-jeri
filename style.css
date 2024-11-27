@@ -622,7 +622,6 @@ section.contato {
 
 .contato .icons-contato a {
   text-decoration: none;
-  color: #000;
 }
 
 .contato .icons-contato button {
@@ -641,6 +640,10 @@ section.contato {
 
 .contato .icons-contato button i {
   font-size: 20px;
+  color: #000;
+}
+
+.contato .icons-contato button p {
   color: #000;
 }
 
