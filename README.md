@@ -8,7 +8,7 @@ Este projeto foi inspirado em minha viagem a Jericoacoara, um lugar extraordiná
 
 Este foi o resultado:
 
-<img width="100%" src="img/img-site.png">
+<img width="100%" src="assets/img-site.png">
 
 <br/>
 
